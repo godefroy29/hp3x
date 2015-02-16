@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJET NOM="AffichageLumineux" TYPE="Java">
+  <FICHIER>Decaleur.java</FICHIER>
+  <FICHIER>Afficheur.java</FICHIER>
+  <FICHIER>Latence.java</FICHIER>
+  <FICHIER>Vitesse.java</FICHIER>
+  <FICHIER>Test.java</FICHIER>
+</PROJET>
+

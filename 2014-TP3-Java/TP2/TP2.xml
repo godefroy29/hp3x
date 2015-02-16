@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJET NOM="TP2" TYPE="Java">
+  <FICHIER>Date.java</FICHIER>
+  <FICHIER>InvalidDateException.java</FICHIER>
+  <FICHIER>Test.java</FICHIER>
+  <FICHIER>Auteur.java</FICHIER>
+  <FICHIER>Document.java</FICHIER>
+  <FICHIER>BaseDocuments.java</FICHIER>
+  <FICHIER>NoSuchElementException.java</FICHIER>
+  <FICHIER>TestBase.java</FICHIER>
+  <FICHIER>Selectionneur.java</FICHIER>
+  <FICHIER>NonEmprunteSelectionneur.java</FICHIER>
+  <FICHIER>AuteurVivantSelectionneur.java</FICHIER>
+  <FICHIER>MotDansTitreSelectionneur.java</FICHIER>
+  <FICHIER>SelectionneurComposite.java</FICHIER>
+</PROJET>
+

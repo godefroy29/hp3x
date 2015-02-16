@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJET NOM="JeuDeDe" TYPE="Java">
+  <FICHIER>Jeux.java</FICHIER>
+  <FICHIER>Strategie.java</FICHIER>
+  <FICHIER>Joueur.java</FICHIER>
+  <FICHIER>StrategieTypeUne.java</FICHIER>
+  <FICHIER>StrategieTypeDeux.java</FICHIER>
+  <FICHIER>StrategieTypeTrois.java</FICHIER>
+</PROJET>
+

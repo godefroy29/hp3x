@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROJET NOM="Exercice" TYPE="Java">
+  <FICHIER>Date.java</FICHIER>
+  <FICHIER>Test.java</FICHIER>
+  <FICHIER>InvalidDateException.java</FICHIER>
+  <FICHIER>Auteur.java</FICHIER>
+  <FICHIER>BaseDocuments.java</FICHIER>
+  <FICHIER>Document.java</FICHIER>
+  <FICHIER>TestBase.java</FICHIER>
+</PROJET>
+
